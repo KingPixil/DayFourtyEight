@@ -32,7 +32,7 @@ function draw() {
   $.font = "5em Poiret One";
   $.fillStyle = 'hsla(213, 95%, 15%, 1)';
   $.fillText(t, c.width / 2 - 180, c.height / 2);
-  var t2 = "Drag To Draw Through Trail";
+  var t2 = "Drag To Make A Detour";
   $.font = "2em Poiret One";
   $.fillStyle = 'hsla(213, 95%, 15%, 1)';
   $.fillText(t2, c.width / 2 - 180, c.height / 2 + 100);
